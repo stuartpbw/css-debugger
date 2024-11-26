@@ -1,0 +1,7 @@
+:root {
+  --debug-color: gold;
+}
+
+body * {
+  outline: 1px solid var(--debug-color) !important;
+}
